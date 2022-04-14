@@ -1,0 +1,10 @@
+C:\Users\Armaan\Desktop\Coding Stuff\Avatar\Avatar\obj\Debug\Avatar.csproj.AssemblyReference.cache
+C:\Users\Armaan\Desktop\Coding Stuff\Avatar\Avatar\obj\Debug\Avatar.Form1.resources
+C:\Users\Armaan\Desktop\Coding Stuff\Avatar\Avatar\obj\Debug\Avatar.Properties.Resources.resources
+C:\Users\Armaan\Desktop\Coding Stuff\Avatar\Avatar\obj\Debug\Avatar.csproj.GenerateResource.cache
+C:\Users\Armaan\Desktop\Coding Stuff\Avatar\Avatar\obj\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\Armaan\Desktop\Coding Stuff\Avatar\Avatar\bin\Debug\Avatar.exe.config
+C:\Users\Armaan\Desktop\Coding Stuff\Avatar\Avatar\bin\Debug\Avatar.exe
+C:\Users\Armaan\Desktop\Coding Stuff\Avatar\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Armaan\Desktop\Coding Stuff\Avatar\Avatar\obj\Debug\Avatar.exe
+C:\Users\Armaan\Desktop\Coding Stuff\Avatar\Avatar\obj\Debug\Avatar.pdb
